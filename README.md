@@ -3,6 +3,8 @@
 ## Description  
 6qlzHunt3r is a powerful automated bug bounty scanner designed to assist security researchers in identifying vulnerabilities across web applications. It streamlines the process of reconnaissance, enumeration, and exploitation using advanced scanning techniques.  
 
+![6qlzHunt3r](https://imgur.com/fZjLnh5.png)
+
 ## Features  
 - Automated scanning for vulnerabilities, including:  
   - SQL Injection (SQLi)  
