@@ -19,7 +19,7 @@ def parse_nuclei_output(command_output: str):
                             severity = part.lower()
                     
                     url = line.split("] ")[-1].split(" [")[0]
-                    description = line.split("] ")[-1].split(" [")[-1].strip('[""]')
+                    description = line.split("] ")[-1].split(" [")[-1].strip('["]')
                     
                     finding = {
                         "timestamp": datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
