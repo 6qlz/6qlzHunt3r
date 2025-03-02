@@ -40,7 +40,9 @@ This tool integrates with **ProjectDiscovery's Nuclei**, enabling precise vulner
 ## Clone the Repository  
 
 ``git clone https://github.com/6qlz/6qlzHunt3r.git``
+
 ``cd 6qlzHunt3r``
+
 ``pip install -r requirements.txt``
 
 ## Disclaimer
